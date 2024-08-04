@@ -1,0 +1,16 @@
+{
+    "docker_deploy" : "yes",
+
+    "db" : "mongodb://localhost/Eco",
+    "db_docker" : "mongodb://172.20.128.2/Eco",
+
+    "email_host":"smtp.libero.it",
+    
+    "amqp_server" : "amqp://localhost",
+    "amqp_server_docker": "amqp://172.20.128.3",
+    "queue" : "Eco-queue",
+    
+    "admin_message" : "GO ECO!",
+
+    "send_email_threshold" : "no"
+}
