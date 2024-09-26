@@ -19,6 +19,7 @@
     "express": "^4.17.3",
     "express-session": "^1.17.2",
     "request": "^2.88.2",
+    "webapp": "file:",
     "ws": "^8.5.0"
   }
 }

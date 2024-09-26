@@ -9,8 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-	"express": "^4.17.1",
-	"amqplib": "latest",
-	"request": "latest"
+    "amqplib": "latest",
+    "express": "^4.17.1",
+    "node": "file:",
+    "request": "latest"
   }
 }
